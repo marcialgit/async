@@ -1,7 +1,7 @@
 # Manejo de funciones asíncronas
-### Requisitos revios
-- sea taskOne(x) función que retorna 'a', después de 2 segundos
-- sea taskTwo(x) función que retorna 'b', después de 4 segundos
+### Requisitos previos
+- sea taskOne(x) función que retorna 'a', después de 2 segundos.
+- sea taskTwo(x) función que retorna 'b', después de 4 segundos.
 
 ### Problema: 
 - pregunta 1: llamar a ambas funciones en paralelo y retornar solo la primera en respuesta.
