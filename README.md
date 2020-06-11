@@ -18,4 +18,4 @@
 - en la ubicación de los archivos correr:
 `$ node index.js`
 
-#### Fuente: https://nodejs.dev/understanding-javascript-promises
+#### Fuente: https://nodejs.dev/learn/understanding-javascript-promises
