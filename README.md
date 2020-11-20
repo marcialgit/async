@@ -1,3 +1,6 @@
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
+
 # Manejo de funciones asíncronas
 ### Requisitos previos
 - sea taskOne(x) función que retorna 'a', después de 2 segundos.
